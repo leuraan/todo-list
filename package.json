@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Express.JS with MongoDB app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leuraan/todo-list.git"
+  },
+  "author": "Leuran Bajra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leuraan/todo-list/issues"
+  },
+  "homepage": "https://github.com/leuraan/todo-list#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
